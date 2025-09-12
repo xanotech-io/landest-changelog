@@ -2,8 +2,7 @@
 All notable changes to user microservice will be documented in this file.
 
 
-## Unreleased
+## [1.0.0-beta] - 2025-09-12
 
 ### Added
-
-### Changed
+- Initial release
