@@ -2,11 +2,7 @@
 All notable changes to account microservice will be documented in this file.
 
 
-## Unreleased
-
+## [1.0.0-beta] - 2025-09-12
 
 ### Added
-- Create milestone endpoint
-
-
-### Changed
+- Initial release
