@@ -10,3 +10,4 @@ This repository is dedicated to storing and managing changelogs for the various 
 - [Property Service](./property-service/CHANGELOG.md)
 - [Thirdparty Provider](./thirdparty-provider/CHANGELOG.md)
 - [Transaction Service](./transaction-service/CHANGELOG.md)
+- [User Service](./user-service/CHANGELOG.md)
